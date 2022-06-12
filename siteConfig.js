@@ -92,10 +92,10 @@ module.exports = {
   siteDescription:
     "buzz-tv66",
   language: "he",
-  logoUrl: "logo.png",
+  logoUrl: "logo.png.png",
   iconUrl: "favicon.png",
   coverUrl: "cover.jpg",
-  alternateLogoUrl: "logo.png",
+  alternateLogoUrl: "logo.png.png",
   themeConfig: {
     variables: [
       {
